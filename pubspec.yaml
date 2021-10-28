@@ -1,0 +1,14 @@
+name: flutter_desktop_bug
+publish_to: 'none'
+version: 1.0.0
+
+environment:
+  sdk: ">=2.15.0-233.0.dev <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/
